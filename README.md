@@ -1,1 +1,1 @@
-Hello, Hexlet!
+No more "say hello"
